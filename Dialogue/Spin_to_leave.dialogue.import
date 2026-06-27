@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://p7mgvawmqv7a"
+path="res://.godot/imported/Spin_to_leave.dialogue-60f046263a0d25a36f991e7d3ab0b4fe.tres"
+
+[deps]
+
+source_file="res://Dialogue/Spin_to_leave.dialogue"
+dest_files=["res://.godot/imported/Spin_to_leave.dialogue-60f046263a0d25a36f991e7d3ab0b4fe.tres"]
+
+[params]
+
+defaults=true

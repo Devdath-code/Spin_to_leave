@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bd6i6jsw7xe8s"
+path="res://.godot/imported/Wear headphones.mp3-292e6b490f0203417e67ee2a6c05d9f2.mp3str"
+
+[deps]
+
+source_file="res://video/Wear headphones.mp3"
+dest_files=["res://.godot/imported/Wear headphones.mp3-292e6b490f0203417e67ee2a6c05d9f2.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
